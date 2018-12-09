@@ -1,0 +1,11 @@
+PyYAML
+certifi
+chardet==3.0.4
+clint==0.5.1
+idna==2.6
+requests==2.18.4
+requests-oauthlib==0.8.0
+requests-toolbelt==0.8.0
+urllib3==1.22
+behave==1.2.6
+oauthlib==2.0.6
